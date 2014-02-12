@@ -13,11 +13,11 @@ import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.Gallery;
-import android.widget.HorizontalScrollView;
 import android.widget.ListView;
 import cn.eoe.news.data.Data;
 import cn.eoe.news.data.NewsData;
 
+@SuppressWarnings("deprecation")
 public class MainActivity extends FragmentActivity {
 
 	/**
